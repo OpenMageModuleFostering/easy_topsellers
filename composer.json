@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Easy_Topsellers",
+    "type": "magento-module",
+    "license": "GPL",
+    "homepage": "",
+    "description": "Magento module generates the list of your online store's best selling products and displays it in sidebars. Extension allows you fully configure your bestsellers on your store and of cource this extension fully configurable at backend.",
+    "authors": [
+    {
+        "name": "volgodark",
+        "email": "volgodark@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

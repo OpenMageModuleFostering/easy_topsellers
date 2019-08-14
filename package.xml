@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Easy_Topsellers</name>
+    <version>1.1.5</version>
+    <stability>stable</stability>
+    <license>GPL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Magento module generates the list of your online store's best selling products and displays it in sidebars. Extension allows you fully configure your bestsellers on your store and of cource this extension fully configurable at backend.</summary>
+    <description>Magento module generates the list of your online store's best selling products and displays it in sidebars. Extension allows you fully configure your bestsellers on your store and of cource this extension fully configurable at backend.</description>
+    <notes>Flat catalog support</notes>
+    <authors><author><name>volgodark</name><user>volgodark</user><email>volgodark@gmail.com</email></author></authors>
+    <date>2012-12-20</date>
+    <time>13:36:19</time>
+    <contents><target name="magecommunity"><dir name="Magazento"><dir name="Easytopsell"><dir name="Block"><file name="Category.php" hash="c2a7e72cbd23a10cac576d7a692d8b39"/><file name="Developer.php" hash="752a0367c8a88bf9cb08d424e4286914"/><file name="Home.php" hash="91e9832c779f57980bc53416bd1995d5"/><file name="Home_1.php" hash="abe3cb12e92fd9fea27a77d249f35581"/></dir><dir name="Helper"><file name="Data.php" hash="9f977e8bb58ad496025983804d9460e8"/></dir><dir name="Model"><file name="Data.php" hash="3c5607e5a08b3ba8d8b45e25d0413c2c"/></dir><dir name="etc"><file name="config.xml" hash="72cf608f34e9b9cef9d21450c0926a68"/><file name="system.xml" hash="e20e824fb205752d3d3bdc96e35776b8"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="template"><dir name="magazento"><dir name="easytopsell"><file name="category_left.phtml" hash="65aff4867906f97d148126ff32f354f0"/><file name="category_right.phtml" hash="3d2edd1cc57bc839d1e8e0b145e77a87"/><file name="home_left.phtml" hash="507757ebf3dd1e9f781070138ad7b189"/><file name="home_right.phtml" hash="ee23e0f9ded93c70ab5e4c2c1670ca09"/></dir></dir></dir><dir name="layout"><file name="magazento_easytopsell.xml" hash="a2a91c96a57d1c8d652635371ab4e703"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Magazento_Easytopsell.xml" hash="bcf1d8c496a3d7759a347cc782e934c6"/></dir></target><target name="mageskin"><dir name="frontend"><dir name="base"><dir name="default"><dir name="magazento"><dir name="easytopseller"><file name="logo_onecheckout.jpg" hash="cf71a3d20cf06abaf99521651c2fe3d1"/><file name="logo_pdf.jpg" hash="5a0d745372115da1d61168e2529c0c0d"/><file name="logo_sitemap.jpg" hash="937495eec93cb1640b6244bff4cb31a2"/><file name="menu_box.jpg" hash="e76e4c6b62b096ca87175eb0f5270062"/><file name="promo.jpg" hash="88520d456df68c98130433b5184b8e7f"/><file name="style.css" hash="fcf1d218462d72cf8d14648fba62ac32"/></dir></dir></dir></dir></dir></target><target name="magelocale"><dir name="en_US"><file name="Magazento_Easytopsell.csv" hash="d41d8cd98f00b204e9800998ecf8427e"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
