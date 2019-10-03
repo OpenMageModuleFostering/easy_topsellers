@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Magento module generates the list of your online store's best selling products and displays it in sidebars. Extension allows you fully configure your bestsellers on your store and of cource this extension fully configurable at backend.
